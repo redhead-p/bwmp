@@ -1,0 +1,9 @@
+pydoctor.ini
+apidocs/*
+apidocs/fonts/*
+apidocs/diags/*
+typings/*
+.vscode/*
+.DS_Store
+
+
